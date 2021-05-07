@@ -1,7 +1,7 @@
 {
-  "name": "cssapp",
+  "name": "css227final2",
   "version": "1.0.0",
-  "description": "for project",
+  "description": "JSON for project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
